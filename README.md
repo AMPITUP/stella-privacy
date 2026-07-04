@@ -18,4 +18,4 @@ transit and at rest.
 **Data deletion:** The owner may revoke access at any time via WHOOP
 account settings, and may delete all stored data at will.
 
-**Contact:** [your email]
+**Contact:** alex.peters789@gmail.com
